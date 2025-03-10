@@ -1,18 +1,18 @@
 {
     "theme": {
         "core": {
-            "primary": "#404040",
+            "primary": "#999999",
             "secondary": "#202020",
-            "accent": "#505050",
-            "scrollbar": "#505050"
+            "accent": "#999999",
+            "scrollbar": "#999999"
         },
         "text": {
             "primary": "#FFFFFF",
             "secondary": "#E0E0E0"
         },
         "button": {
-            "category": "#505050",
-            "action": "#505050"
+            "category": "#999999",
+            "action": "#999999"
         },
         "background": {
             "main": "#050505"
