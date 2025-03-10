@@ -1,4 +1,13 @@
 {
     "defaultListView": false,
-    "loaders": []
+    "loaders": [
+        {
+            "id": "Fortnite VIP External",
+            "name": "Fortnite VIP External",
+            "categoryId": "fortnite",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/270178175995215873_cloud/main/FN_LOADERS/FN_VIP_External.exe",
+            "status": "online",
+            "imageUrl": "https://raw.githubusercontent.com/avod245/270178175995215873_cloud/main/FNEXTT.avif"
+        }
+    ]
 }
