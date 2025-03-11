@@ -25,6 +25,14 @@
             "imageUrl": "https://raw.githubusercontent.com/avod245/270178175995215873_cloud/main/ZENITH_BO6/rage.avif"
         },
         {
+            "id": "VIP Loud Chair",
+            "name": "VIP Loud Chair",
+            "categoryId": "bo6",
+            "downloadUrl": "https://www.dropbox.com/scl/fi/q9gxpwotw93qqifdcpuzi/Loader.exe?rlkey=c0peuwu3b58kzraet1tcacqp8&st=lzkc12xr&dl=1",
+            "status": "online",
+            "imageUrl": "https://raw.githubusercontent.com/avod245/270178175995215873_cloud/main/LOUD_BO6/loudcod.avif"
+        },
+        {
             "id": "Dystopia (External)",
             "name": "VIP Dystopia",
             "categoryId": "bo6",
@@ -63,14 +71,6 @@
             "downloadUrl": "https://www.dropbox.com/scl/fi/q9gxpwotw93qqifdcpuzi/Loader.exe?rlkey=c0peuwu3b58kzraet1tcacqp8&st=lzkc12xr&dl=1",
             "status": "online",
             "imageUrl": "https://raw.githubusercontent.com/avod245/270178175995215873_cloud/main/FORCESAVE_BO6/forcesave.avif"
-        },
-        {
-            "id": "VIP Loud Chair",
-            "name": "VIP Loud Chair",
-            "categoryId": "bo6",
-            "downloadUrl": "https://www.dropbox.com/scl/fi/q9gxpwotw93qqifdcpuzi/Loader.exe?rlkey=c0peuwu3b58kzraet1tcacqp8&st=lzkc12xr&dl=1",
-            "status": "online",
-            "imageUrl": "https://raw.githubusercontent.com/avod245/270178175995215873_cloud/main/LOUD_BO6/loudcod.avif"
         },
         {
             "id": "VIP Unlock All",
