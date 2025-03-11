@@ -56,6 +56,14 @@
             "downloadUrl": "x",
             "status": "online",
             "imageUrl": "https://raw.githubusercontent.com/avod245/270178175995215873_cloud/main/LOUD_BO6/loudcod.avif"
+        },
+        {
+            "id": "VIP Nemesis",
+            "name": "VIP Nemesis",
+            "categoryId": "bo6",
+            "downloadUrl": "x",
+            "status": "online",
+            "imageUrl": "https://raw.githubusercontent.com/avod245/270178175995215873_cloud/main/NEMESIS_BO6/nemesisext.avif"
         }
     ]
 }
