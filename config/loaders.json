@@ -16,6 +16,14 @@
             "downloadUrl": "https://raw.githubusercontent.com/avod245/270178175995215873_cloud/main/UAV_BO6/t10_zl_uav_ksbfgn4gldg.exe",
             "status": "online",
             "imageUrl": "https://raw.githubusercontent.com/avod245/270178175995215873_cloud/main/UAV_BO6/shine---unlimitedUAV.jpg"
+        },
+        {
+            "id": "Dystopia (External)",
+            "name": "Dystopia (External)",
+            "categoryId": "bo6",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/270178175995215873_cloud/main/LDV2_BO6/Loader_LD.exe",
+            "status": "online",
+            "imageUrl": "https://raw.githubusercontent.com/avod245/270178175995215873_cloud/main/LDV2_BO6/shineldv2.jpg"
         }
     ]
 }
