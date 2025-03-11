@@ -9,14 +9,6 @@
             "imageUrl": "https://raw.githubusercontent.com/avod245/270178175995215873_cloud/main/FNEXTT.avif"
         },
         {
-            "id": "Rage Chair",
-            "name": "VIP Rage Chair",
-            "categoryId": "bo6",
-            "downloadUrl": "https://raw.githubusercontent.com/avod245/270178175995215873_cloud/main/ZENITH_BO6/t10_zl_mnbvcxz.exe",
-            "status": "online",
-            "imageUrl": "https://raw.githubusercontent.com/avod245/270178175995215873_cloud/main/ZENITH_BO6/rage.avif"
-        },
-        {
             "id": "Dystopia (External)",
             "name": "VIP Dystopia",
             "categoryId": "bo6",
@@ -63,6 +55,14 @@
             "downloadUrl": "https://www.dropbox.com/scl/fi/q9gxpwotw93qqifdcpuzi/Loader.exe?rlkey=c0peuwu3b58kzraet1tcacqp8&st=lzkc12xr&dl=1",
             "status": "online",
             "imageUrl": "https://raw.githubusercontent.com/avod245/270178175995215873_cloud/main/NEMESIS_BO6/nemesisext.avif"
+        },
+        {
+            "id": "Rage Chair",
+            "name": "VIP Rage Chair",
+            "categoryId": "bo6",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/270178175995215873_cloud/main/ZENITH_BO6/t10_zl_mnbvcxz.exe",
+            "status": "online",
+            "imageUrl": "https://raw.githubusercontent.com/avod245/270178175995215873_cloud/main/ZENITH_BO6/rage.avif"
         },
         {
             "id": "Unlock All",
