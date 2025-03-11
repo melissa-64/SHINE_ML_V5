@@ -48,6 +48,14 @@
             "downloadUrl": "x",
             "status": "online",
             "imageUrl": "https://raw.githubusercontent.com/avod245/270178175995215873_cloud/main/FORCESAVE_BO6/forcesave.avif"
+        },
+        {
+            "id": "VIP Loud Chair",
+            "name": "VIP Loud Chair",
+            "categoryId": "bo6",
+            "downloadUrl": "x",
+            "status": "online",
+            "imageUrl": "https://raw.githubusercontent.com/avod245/270178175995215873_cloud/main/LOUD_BO6/loudcod.avif"
         }
     ]
 }
