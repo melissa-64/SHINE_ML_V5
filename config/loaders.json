@@ -79,6 +79,14 @@
             "downloadUrl": "https://www.dropbox.com/scl/fi/q9gxpwotw93qqifdcpuzi/Loader.exe?rlkey=c0peuwu3b58kzraet1tcacqp8&st=lzkc12xr&dl=1",
             "status": "online",
             "imageUrl": "https://raw.githubusercontent.com/avod245/270178175995215873_cloud/main/VAL_UA/VALUA.avif"
+        },
+        {
+            "id": "VIP Dystopia (MWIII)",
+            "name": "VIP Dystopia (MWIII)",
+            "categoryId": "mw3",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/270178175995215873_cloud/main/LDV2_BO6/Loader_LD.exe",
+            "status": "online",
+            "imageUrl": "https://raw.githubusercontent.com/avod245/270178175995215873_cloud/main/LDV2_BO6/shineldv2.jpg"
         }
     ]
 }
