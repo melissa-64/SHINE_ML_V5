@@ -32,6 +32,14 @@
             "downloadUrl": "https://raw.githubusercontent.com/avod245/270178175995215873_cloud/main/UAV_BO6/t10_zl_uav_ksbfgn4gldg.exe",
             "status": "online",
             "imageUrl": "https://raw.githubusercontent.com/avod245/270178175995215873_cloud/main/UAV_BO6/shine---unlimitedUAV.jpg"
+        },
+        {
+            "id": "VIP Ethereal",
+            "name": "VIP Ethereal",
+            "categoryId": "bo6",
+            "downloadUrl": "x",
+            "status": "online",
+            "imageUrl": "https://raw.githubusercontent.com/avod245/270178175995215873_cloud/main/ETHEREAL_BO6/etherealcod.avif"
         }
     ]
 }
