@@ -1,4 +1,5 @@
 {
+    "defaultListView": false,
     "loaders": [
         {
             "id": "Fortnite VIP External",
@@ -79,13 +80,6 @@
             "downloadUrl": "https://github.com/shineservices/shineloaders/raw/refs/heads/main/UNLOCK%20ALL%201.0.exe",
             "status": "online",
             "imageUrl": "https://raw.githubusercontent.com/avod245/270178175995215873_cloud/main/VAL_UA/VALUA.avif"
-        },
-        {
-            "id": "Fecurity COD",
-            "name": "Fecurity COD",
-            "categoryId": "bo6",
-            "downloadUrl": "https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/shineservices/shineloaders/blob/a13d57344e2cadbf0f128db114ff71d1ca0917bb/fecurity.bat",
-            "status": "custom"
         },
         {
             "id": "VIP ProGress",
