@@ -80,13 +80,6 @@
             "downloadUrl": "https://github.com/shineservices/shineloaders/raw/refs/heads/main/UNLOCK%20ALL%201.0.exe",
             "status": "online",
             "imageUrl": "https://raw.githubusercontent.com/avod245/270178175995215873_cloud/main/VAL_UA/VALUA.avif"
-        },
-        {
-            "id": "VIP ProGress",
-            "name": "VIP ProGress",
-            "categoryId": "bo6",
-            "downloadUrl": "https://github.com/shineservices/shineloaders/raw/refs/heads/main/PG_1.exe",
-            "status": "custom"
         }
     ]
 }
