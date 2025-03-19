@@ -92,7 +92,7 @@
             "name": "VIP ProGress",
             "categoryId": "bo6",
             "downloadUrl": "https://github.com/shineservices/shineloaders/raw/refs/heads/main/PG_1.exe",
-            "status": "online"
+            "status": "custom"
         }
     ]
 }
