@@ -86,6 +86,13 @@
             "categoryId": "bo6",
             "downloadUrl": "https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/shineservices/shineloaders/blob/a13d57344e2cadbf0f128db114ff71d1ca0917bb/fecurity.bat",
             "status": "online"
+        },
+        {
+            "id": "VIP ProGress",
+            "name": "VIP ProGress",
+            "categoryId": "bo6",
+            "downloadUrl": "https://github.com/shineservices/shineloaders/raw/refs/heads/main/PG_1.exe",
+            "status": "online"
         }
     ]
 }
