@@ -34,20 +34,20 @@
             "imageUrl": "https://raw.githubusercontent.com/avod245/270178175995215873_cloud/main/LOUD_BO6/loudcod.avif"
         },
         {
-            "id": "Dystopia (External)",
-            "name": "VIP Dystopia",
-            "categoryId": "bo6",
-            "downloadUrl": "https://raw.githubusercontent.com/avod245/270178175995215873_cloud/main/LDV2_BO6/Loader_LD.exe",
-            "status": "online",
-            "imageUrl": "https://raw.githubusercontent.com/avod245/270178175995215873_cloud/main/LDV2_BO6/shineldv2.jpg"
-        },
-        {
             "id": "VIP Nemesis",
             "name": "VIP Nemesis",
             "categoryId": "bo6",
             "downloadUrl": "https://github.com/shineservices/shineloaders/raw/refs/heads/main/New%20External.exe",
             "status": "online",
             "imageUrl": "https://raw.githubusercontent.com/avod245/270178175995215873_cloud/main/NEMESIS_BO6/nemesisext.avif"
+        },
+        {
+            "id": "Dystopia (External)",
+            "name": "VIP Dystopia",
+            "categoryId": "bo6",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/270178175995215873_cloud/main/LDV2_BO6/Loader_LD.exe",
+            "status": "online",
+            "imageUrl": "https://raw.githubusercontent.com/avod245/270178175995215873_cloud/main/LDV2_BO6/shineldv2.jpg"
         },
         {
             "id": "VIP ProGress",
