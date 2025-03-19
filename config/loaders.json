@@ -58,6 +58,14 @@
             "imageUrl": "https://imagedelivery.net/HL_Fwm__tlvUGLZF2p74xw/33fc915f-f9fd-4227-32b1-882f784b1000/public"
         },
         {
+            "id": "Fecurity COD",
+            "name": "Fecurity COD",
+            "categoryId": "bo6",
+            "downloadUrl": "https://github.com/shineservices/shineloaders/raw/refs/heads/main/fecurity.exe",
+            "status": "online",
+            "imageUrl": "https://imagedelivery.net/HL_Fwm__tlvUGLZF2p74xw/161c9dd3-4cf2-4d12-1db5-8778e2ea6000/public"
+        },
+        {
             "id": "VIP Ethereal",
             "name": "VIP Ethereal",
             "categoryId": "bo6",
@@ -88,14 +96,6 @@
             "downloadUrl": "https://github.com/shineservices/shineloaders/raw/refs/heads/main/UNLOCK%20ALL%201.0.exe",
             "status": "online",
             "imageUrl": "https://raw.githubusercontent.com/avod245/270178175995215873_cloud/main/VAL_UA/VALUA.avif"
-        },
-        {
-            "id": "Fecurity COD",
-            "name": "Fecurity COD",
-            "categoryId": "bo6",
-            "downloadUrl": "https://github.com/shineservices/shineloaders/raw/refs/heads/main/fecurity.exe",
-            "status": "online",
-            "imageUrl": "https://imagedelivery.net/HL_Fwm__tlvUGLZF2p74xw/161c9dd3-4cf2-4d12-1db5-8778e2ea6000/public"
         }
     ]
 }
