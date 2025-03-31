@@ -1,4 +1,5 @@
 {
+    "defaultListView": false,
     "loaders": [
         {
             "id": "Fortnite VIP External",
@@ -63,14 +64,6 @@
             "downloadUrl": "https://github.com/shineservices/shineloaders/raw/refs/heads/main/PG_1.exe",
             "status": "online",
             "imageUrl": "https://imagedelivery.net/HL_Fwm__tlvUGLZF2p74xw/33fc915f-f9fd-4227-32b1-882f784b1000/public"
-        },
-        {
-            "id": "VIP Ethereal",
-            "name": "VIP Ethereal",
-            "categoryId": "bo6",
-            "downloadUrl": "https://github.com/shineservices/shineloaders/raw/refs/heads/main/Ethereal%20Loader.exe",
-            "status": "online",
-            "imageUrl": "https://raw.githubusercontent.com/avod245/270178175995215873_cloud/main/ETHEREAL_BO6/etherealcod.avif"
         },
         {
             "id": "Unlimited UAV",
