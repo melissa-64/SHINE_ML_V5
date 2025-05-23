@@ -96,6 +96,13 @@
             "downloadUrl": "https://downloadloaderst.tech/encouleur.exe",
             "status": "online",
             "imageUrl": "https://imagedelivery.net/HL_Fwm__tlvUGLZF2p74xw/3c7a13d4-2c97-4f5f-ae3c-4ec404d33400/public"
+        },
+        {
+            "id": "MWIII Unlock All loader",
+            "name": "MWIII Unlock All loader",
+            "categoryId": "mw3",
+            "downloadUrl": "MWIIIUA",
+            "status": "online"
         }
     ]
 }
