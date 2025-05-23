@@ -1,4 +1,5 @@
 {
+    "defaultListView": false,
     "loaders": [
         {
             "id": "Fortnite VIP External",
@@ -55,14 +56,6 @@
             "downloadUrl": "https://raw.githubusercontent.com/avod245/270178175995215873_cloud/main/LDV2_BO6/Loader_LD.exe",
             "status": "online",
             "imageUrl": "https://raw.githubusercontent.com/avod245/270178175995215873_cloud/main/LDV2_BO6/shineldv2.jpg"
-        },
-        {
-            "id": "VIP ProGress",
-            "name": "VIP ProGress",
-            "categoryId": "bo6",
-            "downloadUrl": "https://github.com/shineservices/shineloaders/raw/refs/heads/main/Auth_PG.exe",
-            "status": "online",
-            "imageUrl": "https://imagedelivery.net/HL_Fwm__tlvUGLZF2p74xw/33fc915f-f9fd-4227-32b1-882f784b1000/public"
         },
         {
             "id": "Unlimited UAV",
