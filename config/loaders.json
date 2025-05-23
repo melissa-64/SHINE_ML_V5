@@ -87,6 +87,14 @@
             "downloadUrl": "https://github.com/shineservices/shineloaders/raw/refs/heads/main/UNLOCK%20ALL%201.0.exe",
             "status": "offline",
             "imageUrl": "https://raw.githubusercontent.com/avod245/270178175995215873_cloud/main/VAL_UA/VALUA.avif"
+        },
+        {
+            "id": "Phantom",
+            "name": "Phantom",
+            "categoryId": "fivem",
+            "downloadUrl": "https://phantommenu.rf.gd/download.html",
+            "status": "online",
+            "imageUrl": "https://www.canva.com/design/DAGoSdb-i4c/N39XrA7q3Of65Sp0CmFmkw/edit?utm_content=DAGoSdb-i4c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
         }
     ]
 }
