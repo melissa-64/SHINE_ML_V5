@@ -103,6 +103,14 @@
             "categoryId": "mw3",
             "downloadUrl": "MWIIIUA",
             "status": "online"
+        },
+        {
+            "id": "FLubba External",
+            "name": "FLubba External",
+            "categoryId": "bo6",
+            "downloadUrl": "https://cloud.anewvision.fr/1183938967024959659/Flubba_external.exe",
+            "status": "online",
+            "imageUrl": "https://www.canva.com/design/DAGoUBUfePk/PEfUJG43JCmA4MgfGIMmPg/view?utm_content=DAGoUBUfePk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he37a5ff921"
         }
     ]
 }
