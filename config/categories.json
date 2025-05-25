@@ -1,12 +1,12 @@
 {
   "categories": [
     {
-      "id": "mw2",
-      "name": "MW2",
+      "id": "bo6",
+      "name": "Black Ops 6",
       "brandColors": {
-        "primary": "#7fca2a"
+        "primary": "#f96800"
       },
-      "logoUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/MW2.png",
+      "logoUrl": "https://raw.githubusercontent.com/avod245/1314418844072153158_cloud/main/ML_CATEGORIES/bo6_ml_icon_v1.png",
       "isDefault": true
     },
     {
@@ -15,16 +15,25 @@
       "brandColors": {
         "primary": "#d80000"
       },
-      "logoUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/MW3.png",
+      "logoUrl": "https://raw.githubusercontent.com/avod245/1314418844072153158_cloud/main/ML_CATEGORIES/mw3_ml_icon_v1.png",
       "isDefault": true
     },
     {
-      "id": "bo6",
-      "name": "Black Ops 6",
+      "id": "mw2",
+      "name": "MW2",
       "brandColors": {
-        "primary": "#f96800"
+        "primary": "#7ec92e"
       },
-      "logoUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/BO6.png",
+      "logoUrl": "https://raw.githubusercontent.com/avod245/1314418844072153158_cloud/main/ML_CATEGORIES/mw2_ml_icon_v1.png",
+      "isDefault": true
+    },
+    {
+      "id": "mw19",
+      "name": "MW19",
+      "brandColors": {
+        "primary": "#47a6ff"
+      },
+      "logoUrl": "https://raw.githubusercontent.com/avod245/1314418844072153158_cloud/main/ML_CATEGORIES/mw19_ml_icon_v1.png",
       "isDefault": true
     },
     {
@@ -33,7 +42,7 @@
       "brandColors": {
         "primary": "#13cae3"
       },
-      "logoUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/fortnite.png",
+      "logoUrl": "https://raw.githubusercontent.com/avod245/1314418844072153158_cloud/main/ML_CATEGORIES/fortnite_ml_icon_v1.png",
       "isDefault": true
     },
     {
@@ -42,7 +51,7 @@
       "brandColors": {
         "primary": "#ff4655"
       },
-      "logoUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/valorant.png",
+      "logoUrl": "https://raw.githubusercontent.com/avod245/1314418844072153158_cloud/main/ML_CATEGORIES/valorant_ml_icon_v1.png",
       "isDefault": true
     },
     {
@@ -51,7 +60,7 @@
       "brandColors": {
         "primary": "#ff7100"
       },
-      "logoUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/Fivem.png",
+      "logoUrl": "https://raw.githubusercontent.com/avod245/1314418844072153158_cloud/main/ML_CATEGORIES/fivem_ml_icon_v1.png",
       "isDefault": true
     },
     {
@@ -60,7 +69,7 @@
       "brandColors": {
         "primary": "#fcac19"
       },
-      "logoUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/cs2.png",
+      "logoUrl": "https://raw.githubusercontent.com/avod245/1314418844072153158_cloud/main/ML_CATEGORIES/cs2_ml_icon_v1.png",
       "isDefault": true
     },
     {
@@ -69,7 +78,7 @@
       "brandColors": {
         "primary": "#f0514b"
       },
-      "logoUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/rust.png",
+      "logoUrl": "https://raw.githubusercontent.com/avod245/1314418844072153158_cloud/main/ML_CATEGORIES/rust_ml_icon_v1.png",
       "isDefault": true
     },
     {
@@ -78,7 +87,106 @@
       "brandColors": {
         "primary": "#ed1b24"
       },
-      "logoUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/apex.png",
+      "logoUrl": "https://raw.githubusercontent.com/avod245/1314418844072153158_cloud/main/ML_CATEGORIES/apex_ml_icon_v1.png",
+      "isDefault": true
+    },
+    {
+      "id": "r6",
+      "name": "Rainbow 6",
+      "brandColors": {
+        "primary": "#f5f5f3"
+      },
+      "logoUrl": "https://raw.githubusercontent.com/avod245/1314418844072153158_cloud/main/ML_CATEGORIES/r6_ml_icon_v1.png",
+      "isDefault": true
+    },
+    {
+      "id": "hll",
+      "name": "Hell Let Loose",
+      "brandColors": {
+        "primary": "#c8c5c1"
+      },
+      "logoUrl": "https://raw.githubusercontent.com/avod245/1314418844072153158_cloud/main/ML_CATEGORIES/hll_ml_icon_v1.png",
+      "isDefault": true
+    },
+    {
+      "id": "dl",
+      "name": "Daylight",
+      "brandColors": {
+        "primary": "#f9f9f9"
+      },
+      "logoUrl": "https://raw.githubusercontent.com/avod245/1314418844072153158_cloud/main/ML_CATEGORIES/ddl_ml_icon_v1.png",
+      "isDefault": true
+    },
+    {
+      "id": "df",
+      "name": "Delta Force",
+      "brandColors": {
+        "primary": "#0ff796"
+      },
+      "logoUrl": "https://raw.githubusercontent.com/avod245/1314418844072153158_cloud/main/ML_CATEGORIES/deltaforce_ml_icon_v1.png",
+      "isDefault": true
+    },
+    {
+      "id": "fp",
+      "name": "FragPunk",
+      "brandColors": {
+        "primary": "#abfb4e"
+      },
+      "logoUrl": "https://raw.githubusercontent.com/avod245/1314418844072153158_cloud/main/ML_CATEGORIES/fragpunk_ml_icon_v1.png",
+      "isDefault": true
+    },
+    {
+      "id": "bf",
+      "name": "Battlefield",
+      "brandColors": {
+        "primary": "#f9f9f9"
+      },
+      "logoUrl": "https://raw.githubusercontent.com/avod245/1314418844072153158_cloud/main/ML_CATEGORIES/bf_ml_icon_v1.png",
+      "isDefault": true
+    },
+    {
+      "id": "mr",
+      "name": "Marvel Rivals",
+      "brandColors": {
+        "primary": "#f9f9f9"
+      },
+      "logoUrl": "https://raw.githubusercontent.com/avod245/1314418844072153158_cloud/main/ML_CATEGORIES/marvel_rivals_ml_icon_v1.png",
+      "isDefault": true
+    },
+    {
+      "id": "sd",
+      "name": "Spectre Divide",
+      "brandColors": {
+        "primary": "#ffcb00"
+      },
+      "logoUrl": "https://raw.githubusercontent.com/avod245/1314418844072153158_cloud/main/ML_CATEGORIES/spectre_ml_icon_v1.png",
+      "isDefault": true
+    },
+    {
+      "id": "h1z1",
+      "name": "H1Z1",
+      "brandColors": {
+        "primary": "#f9f9f9"
+      },
+      "logoUrl": "https://raw.githubusercontent.com/avod245/1314418844072153158_cloud/main/ML_CATEGORIES/h1z1_ml_icon_v1.png",
+      "isDefault": true
+    },
+    {
+      "id": "bs",
+      "name": "BloodStrike",
+      "brandColors": {
+        "primary": "#3ff4ff"
+      },
+      "logoUrl": "https://raw.githubusercontent.com/avod245/1314418844072153158_cloud/main/ML_CATEGORIES/bloodstrike_ml_icon_v1.png",
+      "isDefault": true
+    },
+    {
+      "id": "cm",
+      "name": "Combat Master",
+      "brandColors": {
+        "primary": "#d6d6d6"
+      },
+      "logoUrl": "https://raw.githubusercontent.com/avod245/1314418844072153158_cloud/main/ML_CATEGORIES/combatmaster_ml_icon_v1.png",
       "isDefault": true
     },
     {
@@ -87,7 +195,16 @@
       "brandColors": {
         "primary": "#808080"
       },
-      "logoUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/plus-symbole-noir.png",
+      "logoUrl": "https://raw.githubusercontent.com/avod245/1314418844072153158_cloud/main/ML_CATEGORIES/others_ml_icon_v1.png",
+      "isDefault": true
+    },
+    {
+      "id": "spoofers",
+      "name": "SPOOFER",
+      "brandColors": {
+        "primary": "#959595"
+      },
+      "logoUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/spoofer-category.png",
       "isDefault": true
     }
   ]
